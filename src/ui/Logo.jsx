@@ -27,7 +27,7 @@ const StyledS = styled.span`
 function Logo() {
   return (
     <StyledLogo>
-      <Img src="../../public/browser-logo.png" />
+      <Img src="../../public/browser-logo.png" alt="logo" />
       <P>
         For<StyledX>x</StyledX>mo<StyledS>s</StyledS>
       </P>
